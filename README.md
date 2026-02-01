@@ -82,8 +82,8 @@ Realizei 4 tentativas de treinamento, para todas elas utilizei o tipo de constru
 
 Apesar de todos os modelos terem sido gerados, não consegui realizar nenhuma predição, nem mesmo uma *single*, devido a problemas com falta de recursos.
 
-![erro] (<Captura de tela 2026-01-31 192048.png>) 
-![erro] (<Captura de tela 2026-01-31 195740.png>)
+![erro](<Captura de tela 2026-01-31 192048.png>) 
+![erro](<Captura de tela 2026-01-31 195740.png>)
 
 *Sobre as métricas:* 
 - Apesar de não ter certeza se os valores que não foram apresentados nas métricas representam *'0'*, caso isso seja confirmado, os resultados indicam um bom desempenho do modelo.
